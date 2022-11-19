@@ -1,6 +1,6 @@
 # Svelte + TS + Tailwind + Vite
 
-**This template should help get you started developing with Svelte, TypeScript and Tailwind in Vite.**
+**This template adapted from [svelte-ts](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-svelte-ts) should help get you started developing with Svelte, TypeScript and Tailwind in Vite.**
 
 Create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 

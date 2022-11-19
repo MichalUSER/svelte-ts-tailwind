@@ -5,7 +5,7 @@
 Create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit MichalUSER/svelte-tailwind-app svelte-app
+npx degit MichalUSER/svelte-ts-tailwind svelte-app
 cd svelte-app
 ```
 
